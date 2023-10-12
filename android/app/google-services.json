@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "512133411418",
+    "project_id": "clone-f750e",
+    "storage_bucket": "clone-f750e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512133411418:android:b9d06c834ea0a60723de63",
+        "android_client_info": {
+          "package_name": "com.example.uber"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpVGiiUs4T-R4pZDI00f2skeqFpvfCzSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
